@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color:white;
+    background: teal;
+    padding: 5px;
+}
+
+
+
+body {
+    background: linear-gradient(to bottom right, red, yellow, cyan, brown, skyBlue, white, pink, black, brown, white);
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+div {
+    color: rgba(255, 0, 0, 0.77);
+    background: black;
+}
+
+
+.column1 {
+    width: 48%;
+    float: left;
+}
+
+.column2 {
+    width: 48%;
+    float: right;
+}
+
+a {
+    color: rgba(255, 0, 0, 0.77);
+    background: black;
+}
+

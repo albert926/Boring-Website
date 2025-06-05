@@ -1,0 +1,101 @@
+body {
+  background-color: #6495ED;
+  font-family: "Helvetica", sans-serif;
+  color: Black;
+}
+
+nav ul {
+  background-color: red;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+
+h1 {
+  color: orange;
+  font-family: "Times New Roman", serif;
+}
+
+p {
+  color: Black;
+  font-family: "Times New Roman", serif;
+}
+
+
+
+
+.topDivider {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #F5FFFA;
+  padding-bottom: 10px;
+}
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
+
+div {
+  color: goldenrod;
+  background-color: aquamarine;
+}
+
+h5 {
+  color: red;
+  background-attachment: black;
+}
+
+a {
+  color: whitesmoke;
+}
+
+div#lH {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+  z-index: 1;
+  font-size: 25px;
+  text-align:center;
+}
+audio#aH {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  z-index: 2;
+  opacity: 0.01;
+}
