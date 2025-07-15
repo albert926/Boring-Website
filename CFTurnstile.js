@@ -1,6 +1,8 @@
-window.captchaPassed = function () {
-  const btn = document.getElementById('loginBtn');
-  if (btn) {
-    btn.disabled = false;
-  }
-};
+document.addEventListener('DOMContentLoaded', () => {
+  turnstile.render('.cf-turnstile', {
+    sitekey: '0x4AAAAAABlI9CNxe5EyiFEo',
+    callback: () => {
+      document.getElementById('loginBtn').disabled = false;
+    }
+  });
+});
