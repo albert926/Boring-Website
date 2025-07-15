@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = htmlspecialchars($_POST['username']);
     $password = htmlspecialchars($_POST['pswrd']);
@@ -29,9 +28,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 } else {
     echo "Invalid request.";
 }
-=======
-echo "<pre>";
-print_r($_POST);
-echo "</pre>";
->>>>>>> 23d82b9500218a78537866e08b3eacdcfdf6264e
 ?>
