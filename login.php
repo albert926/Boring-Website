@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <head>
       <meta charset="UTF-8" />
       <title>Welcome!</title>
-      <link rel="stylesheet" href="loginStyles.css" />
+      <link rel="stylesheet" href="namer.css" />
       <script src="login.js" defer></script>
     </head>
     <body>
