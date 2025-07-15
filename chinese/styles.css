@@ -1,0 +1,181 @@
+/* Global Reset */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+/* Body Styles */
+body {
+    background: linear-gradient(to bottom right, red, yellow, cyan, brown, skyblue, white, pink, black, brown, white);
+    padding: 15px;
+    font-family: sans-serif;
+    color: white; /* Default text color */
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: white;
+    background: teal;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+/* List */
+.list {
+    text-align: center;
+    color: aquamarine;
+    background: teal;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 5px;
+    width: 500px;
+    font-family: "Arial", sans-serif;
+}
+
+/* Login Button */
+.login-button {
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #007BFF;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+    background-color: #0056b3;
+}
+
+.login-button:active {
+    background-color: #003f7f;
+}
+
+.center {
+    text-align: center;
+    color: aquamarine;
+    background: teal;
+    font-family: "Arial", sans-serif;
+}
+
+/* Column Layouts */
+.column1,
+.column2 {
+    width: 48%;
+    float: left;
+}
+
+.column2 {
+    float: right;
+}
+
+/* Tiny Picture */
+.tinyPicture {
+    height: 200px;
+    border-radius: 50%; /* Ensures perfect circular images */
+}
+
+/* Card Container */
+.card {
+    width: 300px;
+    height: 300px;
+    border: 2px solid #e02121;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.card:hover {
+    border-color: #1E90FF;
+}
+
+/* Card Links */
+.cardLink {
+    color: inherit;
+    text-decoration: none;
+}
+
+.cardContainer {
+    color: orange;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+/* Error Messages */
+.Error {
+    color: red;
+}
+
+.switch-container {
+    display: flex;
+    align-items: center;
+}
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 225px;
+    height: 60px;
+}
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2196F3;
+    transition: .4s;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 50px;
+    width: 105px;
+    left: 5px;
+    bottom: 5px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50px;
+}
+input:checked + .slider {
+    background-color: #d32f2f;
+}
+input:checked + .slider:before {
+    transform: translateX(110px);
+}
+.slider .text-left {
+    position: absolute;
+    left: 30px;
+    z-index: 1;
+    color: black;
+}
+.slider .text-right {
+    position: absolute;
+    right: 30px;
+    z-index: 1;
+    color: black;
+}

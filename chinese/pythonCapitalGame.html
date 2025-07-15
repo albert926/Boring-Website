@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>首都问答游戏</title>
+  <link rel="stylesheet" href="CapitalCSS.css">
+  <script src="CapitalJS.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <a href="index.html">回主页</a>
+  </div>
+  <h1>首都问答游戏</h1>
+  <div id="start-container">
+    <label>您想玩多少轮？</label>
+    <input type="number" id="plays" class="input-field" value="3" min="1"><br>
+    <label>选择难度：</label>
+    <select id="level" class="input-field">
+      <option value="hard">困难</option>
+      <option value="medium">中等</option>
+      <option value="easy">简单</option>
+    </select><br>
+    <button class="button" id="start-btn-zh">开始游戏</button>
+  </div>
+  <div id="game-container" class="hidden">
+    <h2 id="question"></h2>
+    <input type="text" id="user-answer" class="input-field" placeholder="请输入答案">
+    <button class="button" id="submit-btn-zh">提交</button>
+    <p id="result"></p>
+    <p id="message"></p>
+  </div>
+</body>
+</html>

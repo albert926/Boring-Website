@@ -1,0 +1,42 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+  }
+  
+  .bgimg-1 {
+    background-image: url("bluescreen.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .content {
+    padding: 20px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .large-button {
+    width: 120px;
+    height: 120px;
+    background-image: url('Button.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    border-radius: 50%;
+    background-color: black;
+    cursor: pointer;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  

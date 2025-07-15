@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="loginStyles.css">
+    <title>请登录</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>登录网页</h1>
+    <form action="">
+        <!-- Headings for the form -->
+        <div class="headingsContainer">
+            <h3>登录</h3>
+            <p>请用用户名和密码登录</p>
+        </div>
+
+        <!-- Main container for all inputs -->
+        <div class="mainContainer">
+            <!-- Username -->
+            <label for="username">你的用户名</label>
+            <input type="text" placeholder="Enter Username" name="username" required>
+
+            <br><br>
+
+            <!-- Password -->
+            <label for="pswrd">你的密码</label>
+            <input type="password" placeholder="Enter Password" name="pswrd" required>
+
+            <!-- sub container for the checkbox and forgot password link -->
+            <div class="subcontainer">
+                <label>
+                  <input type="checkbox" checked="checked" name="remember"> 记得我?
+                </label>
+                <p class="forgotpsd"> <a href="thePage.html">忘记密码了?</a></p>
+            </div>
+
+
+            <!-- Submit button -->
+            <button type="submit">登录</button>
+            
+            <!-- Sign up link -->
+            <p class="register">不是一个成员?  <a href="thePage.html">这里注册</a></p>
+            <p class="register">登录即表示你同意<a href="TERMSANDCONDITIONS.html">条款和条件</a>.</p>
+
+        </div>
+
+    </form>
+</body>
+</html>
