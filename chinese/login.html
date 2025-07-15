@@ -25,28 +25,29 @@
 
             <br><br>
 
-            <!-- Password -->
             <label for="pswrd">你的密码</label>
             <input type="password" placeholder="Enter Password" name="pswrd" required>
 
-            <!-- sub container for the checkbox and forgot password link -->
             <div class="subcontainer">
                 <label>
                   <input type="checkbox" checked="checked" name="remember"> 记得我?
                 </label>
                 <p class="forgotpsd"> <a href="thePage.html">忘记密码了?</a></p>
             </div>
+            
+            <div
+            class="cf-turnstile"
+            data-sitekey="0x4AAAAAABlI9CNxe5EyiFEo"
+            data-callback="javascriptCallback"
+            ></div>
 
-
-            <!-- Submit button -->
             <button type="submit">登录</button>
             
-            <!-- Sign up link -->
             <p class="register">不是一个成员?  <a href="thePage.html">这里注册</a></p>
             <p class="register">登录即表示你同意<a href="TERMSANDCONDITIONS.html">条款和条件</a>.</p>
 
         </div>
-
-    </form>
+    </form>    
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </body>
 </html>
