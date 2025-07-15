@@ -10,14 +10,12 @@
 </head>
 <body>
     <h1>Login Form For Boring Website</h1>
-    <form action="">
-        <!-- Headings for the form -->
+    <form action="login.php" method="post">
         <div class="headingsContainer">
             <h3>Sign in</h3>
             <p>Sign in with your username and password</p>
         </div>
 
-        <!-- Main container for all inputs -->
         <div class="mainContainer">
             <!-- Username -->
             <label for="username">Your username</label>
@@ -29,7 +27,6 @@
             <label for="pswrd">Your password</label>
             <input type="password" placeholder="Enter Password" name="pswrd" required>
 
-            <!-- sub container for the checkbox and forgot password link -->
             <div class="subcontainer">
                 <label>
                   <input type="checkbox" checked="checked" name="remember"> Remember me
@@ -41,7 +38,6 @@
             <!-- Submit button -->
             <button type="submit">Login</button>
             
-            <!-- Sign up link -->
             <p class="register">Not a member?  <a href="thePage.html">Register here!</a></p>
             <p class="register">By logging in, you agree to the <a href="TERMSANDCONDITIONS.html">Terms and Conditions</a>.</p>
 
