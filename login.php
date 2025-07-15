@@ -3,7 +3,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = htmlspecialchars($_POST['username']);
     $password = htmlspecialchars($_POST['pswrd']);
 
-    // Save to file OUTSIDE web root
     $filePath = "/home/YOURUSERNAME/logins.txt";
 
     if ($file = fopen($filePath, "a")) {
@@ -11,7 +10,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         fclose($file);
     }
 
-    echo "<h1>Welcome, $username!</h1>";
+    header("Location: welcome.php?username=" . urlencode($username));
+    exit;
 } else {
     echo "Invalid request.";
 }
