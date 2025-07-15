@@ -1,12 +1,19 @@
+/* Make sure every parent is 100% */
 html, body {
   margin: 0;
   padding: 0;
+  width: 100%;
   height: 100%;
 }
 
+body {
+  display: flex;
+}
+
 iframe {
+  flex: 1;
   border: none;
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 100%;
   display: block;
 }
