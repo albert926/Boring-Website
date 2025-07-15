@@ -13,14 +13,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!DOCTYPE html>
     <html lang="en">
     <head>
-        <meta charset="UTF-8" />
-        <title>Welcome!</title>
-        <link rel="stylesheet" href="namer.css">
+      <meta charset="UTF-8" />
+      <title>Welcome!</title>
+      <link rel="stylesheet" href="loginStyles.css" />
+      <script src="login.js" defer></script>
     </head>
     <body>
-        <h1>Welcome, <?php echo $username; ?>! 🎉</h1>
-
-        <script src="login.js" defer></script>
+      <h1>Welcome, <?php echo $username; ?>! 🎉</h1>
     </body>
     </html>
     <?php
