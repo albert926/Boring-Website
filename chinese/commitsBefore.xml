@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>Boring Website:main commits</title>
+<link href="https://gitlab.com/albert2751550/boring-website/-/commits/main?feed_token=glft-151b64915cd28440e25fc240b2a8c1f52ff0e7bdd18ee02216b6be357cd4988e-25115302&amp;format=atom" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/albert2751550/boring-website/-/commits/main" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/albert2751550/boring-website/-/commits/main</id>
+<updated>2025-05-29T07:46:35+00:00</updated>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/242c8171d551106dffb8173261345ec0ed4c8a0f</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/242c8171d551106dffb8173261345ec0ed4c8a0f"/>
+  <title>Merge branch 'main' into 'main'</title>
+  <updated>2025-05-29T07:46:35+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html">
+termsCSS
+
+See merge request &lt;a href="/albert2751550/boring-website/-/merge_requests/1" data-reference-type="merge_request" data-original="albert2751550/boring-website!1" data-link="false" data-link-reference="false" data-merge-request="386921180" data-project="65655232" data-project-path="albert2751550/boring-website" data-iid="1" data-container="body" data-placement="top" title="termsCSS" class="gfm gfm-merge_request"&gt;!1&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/1d4e8c7fb633b577eb1a587f9bed7bb20c12d88d</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/1d4e8c7fb633b577eb1a587f9bed7bb20c12d88d"/>
+  <title>termsCSS</title>
+  <updated>2025-05-29T07:46:35+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/61a60fcd40cb551598ba28718720da572927398573cf5b614f174ce940faee41?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>320805@hkis.edu.hk</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/c72c7d075454a479a92dc7d936d07b12abc48caa</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/c72c7d075454a479a92dc7d936d07b12abc48caa"/>
+  <title>typo</title>
+  <updated>2025-05-16T13:08:52+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/b7acde4e65609df68cd9ab7a0df743a8cb5727d5</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/b7acde4e65609df68cd9ab7a0df743a8cb5727d5"/>
+  <title>FLKSJSLDFKJ:DSLKF</title>
+  <updated>2025-05-16T13:07:44+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/2983d9c2f9784d2563f07572319a94ece3da713e</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/2983d9c2f9784d2563f07572319a94ece3da713e"/>
+  <title>yaz</title>
+  <updated>2025-05-16T13:03:30+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/b7106bf37ab91e0fdcd2b013fcff43e342f0b128</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/b7106bf37ab91e0fdcd2b013fcff43e342f0b128"/>
+  <title>Update 4 files</title>
+  <updated>2025-05-16T12:59:57+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html">
+- /pythonCapitalGame.html
+- /chinese/pythonCapitalGame.html
+- /chinese/CapitalJS.js
+- /CapitalJS.js</summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/41b850a65ad0f5276b6e21e8d2a3e4ccf394180d</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/41b850a65ad0f5276b6e21e8d2a3e4ccf394180d"/>
+  <title>OMG</title>
+  <updated>2025-05-16T12:57:01+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/0e3404fb1c947f4895a760c839a6520d6437c6e0</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/0e3404fb1c947f4895a760c839a6520d6437c6e0"/>
+  <title>lez twy abain</title>
+  <updated>2025-05-16T12:54:29+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/f607af5511b4414df80b023ac1be438935357a77</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/f607af5511b4414df80b023ac1be438935357a77"/>
+  <title>Ugh</title>
+  <updated>2025-05-16T12:49:56+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/4056002e2ae1e946fd9fc0d2b61abf834bf70633</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/4056002e2ae1e946fd9fc0d2b61abf834bf70633"/>
+  <title>Oops forgot this</title>
+  <updated>2025-05-16T12:45:47+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/3a46674c71c9005c364f8c4abdc411249b0f5feb</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/3a46674c71c9005c364f8c4abdc411249b0f5feb"/>
+  <title>Lez zee iz theez gonza fiz iz</title>
+  <updated>2025-05-16T12:44:36+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/e85c2a8ab3046fdc3590bd723f7fe577a891a39c</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/e85c2a8ab3046fdc3590bd723f7fe577a891a39c"/>
+  <title>ugh</title>
+  <updated>2025-05-15T13:15:14+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/0fb9632205ad177203d5c048b840f23d50333c02</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/0fb9632205ad177203d5c048b840f23d50333c02"/>
+  <title>ughh</title>
+  <updated>2025-05-15T13:14:34+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/0df82f2db0a03c84e6a074236179ff7d1e5eb1e3</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/0df82f2db0a03c84e6a074236179ff7d1e5eb1e3"/>
+  <title>lets try again and use stack overflow suggestions :D</title>
+  <updated>2025-05-15T12:59:30+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/6030c27b6a06bb21973c69c4df5b6caa12037b2c</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/6030c27b6a06bb21973c69c4df5b6caa12037b2c"/>
+  <title>BS chinese (bluescreen not the B-word)</title>
+  <updated>2025-05-15T12:35:03+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/91f80429c09490c9e378cf3f9317479bfbe86ead</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/91f80429c09490c9e378cf3f9317479bfbe86ead"/>
+  <title>blue screen used inline</title>
+  <updated>2025-05-15T12:33:13+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/b4b5b1f46f07452f2576945d480ad8f9a5157565</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/b4b5b1f46f07452f2576945d480ad8f9a5157565"/>
+  <title>chinese too</title>
+  <updated>2025-05-15T12:30:56+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/e0b87e730212a80485bb53968407cc4cdba19c67</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/e0b87e730212a80485bb53968407cc4cdba19c67"/>
+  <title>button has inline</title>
+  <updated>2025-05-15T12:29:28+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/94958255990dd559ccd066fd822ed744100798cc</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/94958255990dd559ccd066fd822ed744100798cc"/>
+  <title>OKEY</title>
+  <updated>2025-05-15T12:08:11+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/d1ac75862407715be579bbe2209a3a7602e788da</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/d1ac75862407715be579bbe2209a3a7602e788da"/>
+  <title>CHICKEN JOCKEY!!!</title>
+  <updated>2025-05-15T12:06:56+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/cb07b8d14c6149979077e6a2e14549071ac61a1c</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/cb07b8d14c6149979077e6a2e14549071ac61a1c"/>
+  <title>stuff</title>
+  <updated>2025-05-14T12:14:00+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/c68a6ee5f8252b23627762a2d06b15bf36d9cdf1</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/c68a6ee5f8252b23627762a2d06b15bf36d9cdf1"/>
+  <title>ugh</title>
+  <updated>2025-05-14T12:12:10+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/03a0c87e9559abd0eff0fab5c693c1a14e22bf08</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/03a0c87e9559abd0eff0fab5c693c1a14e22bf08"/>
+  <title>hanr</title>
+  <updated>2025-05-14T12:11:14+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/38a8cd39b587562ea8e187cda91e9206176879e1</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/38a8cd39b587562ea8e187cda91e9206176879e1"/>
+  <title>meh</title>
+  <updated>2025-05-14T12:04:28+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/8164abc53a511e4619c852dd3ecae8b6a57b72a8</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/8164abc53a511e4619c852dd3ecae8b6a57b72a8"/>
+  <title>Inline rm</title>
+  <updated>2025-05-14T12:02:16+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/f8d5828783b717f38a48ba0b92ecd01c3afb1761</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/f8d5828783b717f38a48ba0b92ecd01c3afb1761"/>
+  <title>Safer</title>
+  <updated>2025-05-14T11:59:59+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/c1d23b8e25fbe982de399b767cea54e61fc04cd7</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/c1d23b8e25fbe982de399b767cea54e61fc04cd7"/>
+  <title>Safer</title>
+  <updated>2025-05-14T11:56:16+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/2a8ebf473c5ee1c3e58c2b0e79ccc9539c6d36cf</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/2a8ebf473c5ee1c3e58c2b0e79ccc9539c6d36cf"/>
+  <title>Chinese one</title>
+  <updated>2025-05-14T11:54:42+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/46d4daa64e22f344a72e95a47e41e250e82e3b9d</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/46d4daa64e22f344a72e95a47e41e250e82e3b9d"/>
+  <title>inline css aint secure</title>
+  <updated>2025-05-14T11:51:52+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/a42bdf3ea882c5bb9beaf4dd580dc42a8da08709</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/a42bdf3ea882c5bb9beaf4dd580dc42a8da08709"/>
+  <title>welcomenamer</title>
+  <updated>2025-05-13T12:58:17+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/21fd8309384a1864da826300ffa4c6a4d1fdbddc</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/21fd8309384a1864da826300ffa4c6a4d1fdbddc"/>
+  <title>I was better</title>
+  <updated>2025-05-13T12:45:00+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/24a430e3ee8ffb3a63b4236016eefe677b833a3a</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/24a430e3ee8ffb3a63b4236016eefe677b833a3a"/>
+  <title>CHAT GPT SAID I HAD ERROS</title>
+  <updated>2025-05-13T12:43:31+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/7f082b0ce585b2943ec29ee8b7ff61cc12d17f7f</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/7f082b0ce585b2943ec29ee8b7ff61cc12d17f7f"/>
+  <title>forgot to do the chinese thing again</title>
+  <updated>2025-05-12T11:08:27+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/6cd9afd42626435d6f8cab0f857d05d3e5387722</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/6cd9afd42626435d6f8cab0f857d05d3e5387722"/>
+  <title>Oops, copying and pasting got to fun</title>
+  <updated>2025-05-12T11:07:40+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/1d10dcceb149cb90dadc15c95fdefea6835e0125</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/1d10dcceb149cb90dadc15c95fdefea6835e0125"/>
+  <title>500 Error message</title>
+  <updated>2025-05-12T11:05:45+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/21e3c329aea8de11d737beb8ae664ffed5755090</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/21e3c329aea8de11d737beb8ae664ffed5755090"/>
+  <title>chinese button goes to chinese</title>
+  <updated>2025-05-12T10:57:30+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/5d6ddd7e7ff25730ca1ea68a951e2a79d2da3ac3</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/5d6ddd7e7ff25730ca1ea68a951e2a79d2da3ac3"/>
+  <title>Bit bigger</title>
+  <updated>2025-05-12T10:56:26+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/7eae264ae3758c466edccec710ae378639dc2401</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/7eae264ae3758c466edccec710ae378639dc2401"/>
+  <title>Image way to big</title>
+  <updated>2025-05-12T10:54:28+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/0b672bd973e39b0b9a262b6e123bbe6d535a1305</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/0b672bd973e39b0b9a262b6e123bbe6d535a1305"/>
+  <title>We don't need it</title>
+  <updated>2025-05-12T10:52:33+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.com/albert2751550/boring-website/-/commit/c24af093af2171e932d5fa77cf6077fccd49ede3</id>
+  <link href="https://gitlab.com/albert2751550/boring-website/-/commit/c24af093af2171e932d5fa77cf6077fccd49ede3"/>
+  <title>Updated 404.html to be multingual to suite 404 redirections with Apache</title>
+  <updated>2025-05-12T10:51:52+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/79f70b85c93c6c03e43fb7e29a2f5592efe1ac8f9c388500b0453867f1f624e3?s=80&amp;d=identicon"/>
+  <author>
+    <name>Albert Wu</name>
+    <email>albertwu269@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+</feed>
