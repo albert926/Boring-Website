@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </head>
     <body>
       <h1>欢迎, <?php echo $username; ?>!</h1>
-      <script src="login.js" defer></script>
+      <script src="/chinese/login.js" defer></script>
     </body>
     </html>
     <?php
