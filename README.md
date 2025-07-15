@@ -35,16 +35,11 @@ Here’s an overview of the project:
   - `emotional-damage-meme.mp3`: Plays emotional damage audio for comedic effect.
   - `Rocker (Albert's the Owner).mp3`: Music for the "death" pages.
 
-### **Other Files**
-- `.git`: Git repository metadata.
-- PDF files like `Bird watch website 1.0.pdf`, `2.0.pdf`, and `3.0.pdf` are offline guides for programming from https://projects.raspberrypi.org/
-- `Happy birthday.pdf` and `Tell a story.pdf`: Bonus content.
-
 ## **How to Run the Project**
 
 1. Clone this repository:
    ```bash
-   git clone https://gitlab.com/albert2751550/boring-website.git
+   git clone https://github.com/albert926/Boring-Website.git
    ```
 
 2. Navigate to the project directory:
@@ -54,7 +49,7 @@ Here’s an overview of the project:
 
 3. Open `index.html` in a web browser to explore the site.
 
-Or you can check out the up to date version at https://realrobots.net/albert/ !
+Or you can check out the up to date version at https://www.alberttalkstech.com !
 
 ## **Key Features**
 
@@ -68,7 +63,7 @@ This project is open source! Feel free to fork the repository and make your own 
 
 Special Thanks to Jake Wilkinson from https://realrobots.net/ for hosting this boring website for me for free! (Well that was before)
 You can support him by becoming a member of his patreon https://www.patreon.com/realrobots. Or you can support me by just watching my simple youtube videos and subscribing! https://www.youtube.com/@alberttalkstech?sub_confirmation=1
-Now I'm hosting on https://www.alberttalkstech.online
+Now I'm hosting on https://www.alberttalkstech.com
 
 ## **License**
 
