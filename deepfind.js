@@ -3,9 +3,14 @@ import bodyParser from 'body-parser';
 import fs from 'fs';
 import path from 'path';
 import fetch from 'node-fetch';
+import path from 'path';
+
+app.get('/deepfind.css', (req, res) => {
+  res.type('text/css').sendFile(path.join(process.cwd(), 'deepfind.css'));
+});
 
 const app = express();
-app.use(bodyParser.json());
+app.use(express.static(process.cwd()));
 
 app.get('/deepfind.html', (req, res) => {
   res.sendFile(path.join(process.cwd(), 'deepfind.html'));
