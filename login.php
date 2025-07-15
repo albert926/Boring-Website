@@ -40,6 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </head>
     <body>
       <h1>Welcome, <?php echo $username; ?>!</h1>
+      <script src="login.js" defer></script>
     </body>
     </html>
     <?php
