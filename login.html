@@ -35,14 +35,20 @@
             </div>
 
 
-            <!-- Submit button -->
-            <button type="submit">Login</button>
+            <div
+            class="cf-turnstile"
+            data-sitekey="0x4AAAAAABlI9CNxe5EyiFEo"
+            data-callback="javascriptCallback"
+            ></div>
+
+            <button type="submit" id="loginBtn" disabled>Login</button>
             
             <p class="register">Not a member?  <a href="thePage.html">Register here!</a></p>
             <p class="register">By logging in, you agree to the <a href="TERMSANDCONDITIONS.html">Terms and Conditions</a>.</p>
 
         </div>
-
     </form>
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+    <script src="CFTurnstile.js" defer></script>
 </body>
 </html>
