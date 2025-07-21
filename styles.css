@@ -36,6 +36,20 @@ h1 {
     font-family: "Arial", sans-serif;
 }
 
+.git-button {
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #007BFF;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
 /* Login Button */
 .login-button {
     display: block;
