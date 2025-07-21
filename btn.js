@@ -4,3 +4,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
   
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('gitBtn').addEventListener('click', () => {
+      window.location.href = '/git/';
+    });
+  });
+  
