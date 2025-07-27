@@ -1,0 +1,14 @@
+.site‑footer {
+  color: #fff;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+.site‑footer a {
+  color: inherit;
+  text-decoration: underline;
+}
+.cc‑icons img {
+  max-width: 1em;
+  max-height: 1em;
+  margin-left: .2em;
+}
