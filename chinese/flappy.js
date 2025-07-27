@@ -12,8 +12,25 @@
   const pipeWidth = 60;
   const pipeGap = 150;
   const pipeInterval = 120;
-  let frameCount, bird, pipes, score, bestScore = 0, gameState = 'start';
+  let frameCount, bird, pipes, score, gameState = 'start';
+  let bestScore = parseInt(getCookie('bestScore')) || 0;
   let pipeSpeed = 1.5;
+
+  function getCookie(name) {
+    const v = `; ${document.cookie}`;
+    const parts = v.split(`; ${name}=`);
+    return parts.length === 2 ? parts.pop().split(';').shift() : null;
+  }
+  function setCookie(name, value, days) {
+    let expires = '';
+    if (days) {
+      const d = new Date();
+      d.setTime(d.getTime() + days*24*60*60*1000);
+      expires = '; expires=' + d.toUTCString();
+    }
+    document.cookie = name + '=' + value + expires + '; path=/';
+  }
+
 
   function resetGame() {
     frameCount = 0;
@@ -66,13 +83,16 @@
           return gameOver();
         }
       }
+      
       if (!pipe.scored && pipe.x + pipeWidth < bird.x) {
         pipe.scored = true;
         score++;
-
         if (score % 10 === 0) pipeSpeed += 0.5;
-        bestScore = Math.max(bestScore, score);
         scoreDiv.textContent = score;
+        if (score > bestScore) {
+          bestScore = score;
+          setCookie('bestScore', bestScore, 365);
+        }
       }
     }
   }
