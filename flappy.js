@@ -17,7 +17,7 @@
   let pipeSpeed = 1.5;
 
   const birdImg = new Image();
-  birdImg.src = 'flap.jpg';
+  birdImg.src = 'flap.png';
 
 
   function getCookie(name) {
