@@ -15,6 +15,10 @@ body {
   position: relative;
 }
 canvas {
+  width: 100vw;
+  max-width: 400px;
+  height: auto;
+  touch-action: none;
   background-color: #70c5ce;
   display: block;
   border: 2px solid #000;

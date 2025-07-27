@@ -8,7 +8,7 @@
   const height = canvas.height;
   const groundHeight = 80;
   const gravity = 0.2;
-  const jumpStrength = -4;
+  const jumpStrength = -5;
   const pipeWidth = 60;
   const pipeGap = 150;
   const pipeInterval = 90;
@@ -31,7 +31,7 @@
 
   function gameOver() {
     gameState = 'over';
-    messageDiv.innerHTML = `Game Over<br>Score: ${score}<br>Best: ${bestScore}<br>Press Space to Restart`;
+    messageDiv.innerHTML = `Game Over<br>Score: ${score}<br>Best: ${bestScore}<br>Press Space or Tap to Restart`;
   }
 
   function createPipe() {
@@ -110,7 +110,7 @@
     ctx.fillRect(0, height - groundHeight, width, groundHeight);
     ctx.fillStyle = '#8B4513';
     ctx.fillRect(0, height - groundHeight + 10, width, 10);
-    messageDiv.innerHTML = 'Flappy Bird<br>Press Space to Start';
+    messageDiv.innerHTML = 'Flappy Bird<br>Press Space or Tap to Start';
   }
 
   function handleJump() {
@@ -126,6 +126,11 @@
     }
   });
   canvas.addEventListener('mousedown', handleJump);
+  canvas.addEventListener('touchstart', e => {
+  e.preventDefault();
+  handleJump();
+});
+
 
   // init
   resetGame();
