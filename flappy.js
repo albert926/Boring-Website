@@ -7,7 +7,7 @@
   const width = canvas.width;
   const height = canvas.height;
   const groundHeight = 80;
-  const gravity = 0.1;      // lower gravity for smoother fall
+  const gravity = 0.3;      // lower gravity for smoother fall
   const jumpStrength = -8;
   const pipeWidth = 60;
   const pipeGap = 150;
