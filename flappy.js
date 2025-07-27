@@ -7,8 +7,8 @@
   const width = canvas.width;
   const height = canvas.height;
   const groundHeight = 80;
-  const gravity = 0.3;
-  const jumpStrength = -8;
+  const gravity = 0.2;
+  const jumpStrength = -4;
   const pipeWidth = 60;
   const pipeGap = 150;
   const pipeInterval = 90;
