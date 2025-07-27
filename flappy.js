@@ -11,7 +11,7 @@
   const jumpStrength = -4;
   const pipeWidth = 60;
   const pipeGap = 150;
-  const pipeInterval = 110;
+  const pipeInterval = 130;
   let frameCount, bird, pipes, score, bestScore = 0, gameState = 'start';
   let pipeSpeed = 1.5;
 
