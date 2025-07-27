@@ -16,6 +16,10 @@
   let bestScore = parseInt(getCookie('bestScore')) || 0;
   let pipeSpeed = 1.5;
 
+  const birdImg = new Image();
+  birdImg.src = 'flap.png';
+
+
   function getCookie(name) {
     const v = `; ${document.cookie}`;
     const parts = v.split(`; ${name}=`);
@@ -108,10 +112,11 @@
       ctx.fillRect(p.x, botT, pipeWidth, height - groundHeight - botT);
     }
     // bird
-    ctx.fillStyle = '#FFEB3B';
-    ctx.fillRect(bird.x, bird.y, bird.width, bird.height);
-    ctx.strokeStyle = '#000';
-    ctx.strokeRect(bird.x, bird.y, bird.width, bird.height);
+    // ctx.fillStyle = '#FFEB3B';
+    // ctx.fillRect(bird.x, bird.y, bird.width, bird.height);
+    // ctx.strokeStyle = '#000';
+    // ctx.strokeRect(bird.x, bird.y, bird.width, bird.height);
+    ctx.drawImage(birdImg, bird.x, bird.y, bird.width, bird.height);
     // ground
     ctx.fillStyle = '#DEB887';
     ctx.fillRect(0, height - groundHeight, width, groundHeight);
