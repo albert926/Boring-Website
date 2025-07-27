@@ -13,6 +13,7 @@
   const pipeGap = 150;
   const pipeInterval = 90;
   let frameCount, bird, pipes, score, bestScore = 0, gameState = 'start';
+  let pipeSpeed = 1.5;
 
   function resetGame() {
     frameCount = 0;
@@ -49,7 +50,7 @@
     if (frameCount % pipeInterval === 0) createPipe();
 
     for (let i = pipes.length-1; i>=0; i--) {
-      pipes[i].x -= 2;
+      pipes[i].x -= pipeSpeed;
       if (pipes[i].x + pipeWidth < 0) pipes.splice(i,1);
     }
 
@@ -68,6 +69,8 @@
       if (!pipe.scored && pipe.x + pipeWidth < bird.x) {
         pipe.scored = true;
         score++;
+
+        if (score % 10 === 0) pipeSpeed += 0.5;
         bestScore = Math.max(bestScore, score);
         scoreDiv.textContent = score;
       }
