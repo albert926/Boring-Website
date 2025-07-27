@@ -71,6 +71,6 @@ This project is open for anyone to enjoy and modify. Share it, laugh with it, or
 
 ## **Contact**
 
-If you have any questions or suggestions, feel free to reach out via GitLab issues or comments.
+If you have any questions or suggestions, feel free to reach out via GitHub issues or comments.
 
 Happy Browsing!
