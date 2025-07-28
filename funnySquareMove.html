@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<link rel="stylesheet" href="noPoint.css">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <title>NoPoint Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="noPoint.css">
 </head>
-<body onload="startGame()">
+<body>
 
-  <script src="move.js"></script>
+  <p>Make sure the game area has focus, and use the arrow keys to move the red square around.</p>
 
-<p>Make sure the gamearea has focus, and use the arrow keys to move the red square around.</p>
+  <canvas id="gameCanvas" width="400" height="400" tabindex="1"></canvas>
 
+  <script src="move.js" defer></script>
 </body>
 </html>
