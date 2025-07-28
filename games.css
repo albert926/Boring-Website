@@ -1,0 +1,10 @@
+.game-card {
+  transition: transform 0.2s ease-in-out;
+}
+.game-card:hover {
+  transform: scale(1.03);
+}
+.card-img-top {
+  object-fit: cover;
+  height: 200px;
+}
