@@ -196,13 +196,10 @@ input:checked + .slider:before {
 
 .game-container {
   display: flex;
-  background-color: #0b0b2b;
-  font-family: sans-serif;
   color: #ffffff;
 }
 
 .game-container .btn {
-  font-size: 0.75rem;
   padding: 0.25rem 0.5rem;
   border-radius: 0.1rem;
   line-height: 1;
