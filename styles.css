@@ -197,13 +197,17 @@ input:checked + .slider:before {
 .game-container {
   display: flex;
   color: #ffffff;
+  justify-content: center;
+  text-align: center;
 }
 
 .game-container .btn {
-  padding: 0.25rem 0.5rem;
-  border-radius: 0.1rem;
-  line-height: 1;
-  min-width: auto;
+  font-size: 0.85rem;
+  padding: 0.4rem 0.75rem;
+  border-radius: 0.2rem;
+  line-height: 1.1;
   width: auto;
   height: auto;
+  min-width: unset;
+  min-height: unset;
 }
