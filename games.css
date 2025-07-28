@@ -1,5 +1,11 @@
-.game-card {
-  transition: transform 0.2s ease-in-out;
+html, body {
+  height: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+body {
+  position: relative;
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -8,10 +14,15 @@
   }
 }
 
+.game-card {
+  transition: transform 0.2s ease-in-out;
+}
+
 .card-img-top {
   height: 200px;
   object-fit: cover;
 }
+
 
 * {
   margin: 0;
