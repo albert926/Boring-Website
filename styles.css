@@ -193,3 +193,14 @@ input:checked + .slider:before {
     z-index: 1;
     color: black;
 }
+
+.game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #0b0b2b;
+  font-family: sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
