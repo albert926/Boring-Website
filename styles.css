@@ -196,11 +196,17 @@ input:checked + .slider:before {
 
 .game-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
   background-color: #0b0b2b;
   font-family: sans-serif;
   color: #ffffff;
-  text-align: center;
+}
+
+.game-container .btn {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.1rem;
+  line-height: 1;
+  min-width: auto;
+  width: auto;
+  height: auto;
 }
