@@ -193,3 +193,7 @@ body {
     top: 110%;
   }
 }
+
+.warning {
+  color: red;
+}
