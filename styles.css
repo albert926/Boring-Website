@@ -202,10 +202,10 @@ input:checked + .slider:before {
 }
 
 .game-container .btn {
-  font-size: 0.85rem;
-  padding: 0.4rem 0.75rem;
-  border-radius: 0.2rem;
-  line-height: 1.1;
+  font-size: 1rem;
+  padding: 0.6rem 1.2rem;
+  border-radius: 0.25rem;
+  line-height: 1.2;
   width: auto;
   height: auto;
   min-width: unset;
