@@ -36,6 +36,20 @@ h1 {
     font-family: "Arial", sans-serif;
 }
 
+.git-button {
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #007BFF;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
 /* Login Button */
 .login-button {
     display: block;
@@ -179,3 +193,23 @@ input:checked + .slider:before {
     z-index: 1;
     color: black;
 }
+
+.game-button {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.game-button:hover {
+  background-color: #0056b3;
+}
+
