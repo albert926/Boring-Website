@@ -7,7 +7,7 @@
   // images
   const shipImg     = new Image();
   const asteroidImg = new Image();
-  shipImg.src       = 'spaceship.png';
+  shipImg.src       = 'space.png';
   asteroidImg.src   = 'asteroid.png';
 
   // player setup
