@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
   document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('gitBtn').addEventListener('click', () => {
-      window.location.href = '/git/';
+      window.location.href = 'https://git.alberttalkstech.com';
     });
   });
   
