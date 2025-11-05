@@ -26,7 +26,7 @@ function startGame() {
 function nextQuestion() {
   if (currentPlay >= plays) {
     document.getElementById("message").innerText = "Game complete!";
-    setTimeout(() => window.location.href = "index.html", 2000);
+    setTimeout(() => window.location.href = "pythonCapitalGame.html", 2000);
     return;
   }
   currentPlay++;
