@@ -77,16 +77,14 @@ h1 {
     float: right;
 }
 
-/* Tiny Picture */
 .tinyPicture {
     height: 200px;
-    border-radius: 50%; /* Ensures perfect circular images */
+    border-radius: 50%; 
 }
 
-/* Card Container */
 .card {
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 320px;
     border: 2px solid #e02121;
     border-radius: 10px;
     box-sizing: border-box;

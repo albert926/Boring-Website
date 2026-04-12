@@ -35,6 +35,9 @@ Here’s an overview of the project:
   - `emotional-damage-meme.mp3`: Plays emotional damage audio for comedic effect.
   - `Rocker (Albert's the Owner).mp3`: Music for the "death" pages.
 
+### **More Files**
+- `Updated will always happen`: New files will always be updated on the website but won't be frequently updated here in the future.
+
 ## **How to Run the Project**
 
 1. Clone this repository:
